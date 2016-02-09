@@ -1,0 +1,30 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sp|P42620|YQJG_ECOLI                MGQLIDGVWHDTWYDTKSTG--GKFQRSASAFRNWLTADGAPGPTGTGGF
+gi|255292730|dbj|BAH89836.1|_2      ---LVNGRWVENWQPVQKADEQGRFIRQVSEFRNWVTPDGRPGPTGEGGF
+                                       *::* * :.*  .:.:.  *:* *..* ****:*.** ***** ***
+
+sp|P42620|YQJG_ECOLI                IAEKDRYHLYVSLACPWAHRTLIMRKLKGLEPFISVSVVNPLMLENGWTF
+gi|255292730|dbj|BAH89836.1|_2      EAEAGRYRLYVALICPWASRTLIARRLKGLADLIPVTVVNPTLTDQGWRF
+                                     ** .**:***:* **** **** *:****  :*.*:**** : ::** *
+
+sp|P42620|YQJG_ECOLI                DDSFPGATGDTLYQNEFLYQLYLHADPHYSGRVTVPVLWDKKNHTIVSNE
+gi|255292730|dbj|BAH89836.1|_2      GG-YPGADEDPLYASKYMHELYTRADPHVSGRATVPVLWDMKRGVMVNNE
+                                    .. :***  *.** .:::::** :**** ***.******* *. .:*.**
+
+sp|P42620|YQJG_ECOLI                SAEIIRMFNTAFDALGAKAGDYYPPALQTKIDELNGWIYDTVNNGVYKAG
+gi|255292730|dbj|BAH89836.1|_2      SADIVRMFDTAFDAIAPSDLRLYPADLAEEIDVLNRQVYESLNNGVYKAG
+                                    **:*:***:*****:...    **. *  :** **  :*:::********
+
+sp|P42620|YQJG_ECOLI                FATSQEAYDEAVAKVFESLARLEQILGQHR-YLTGNQLTEADIRLWTTLV
+gi|255292730|dbj|BAH89836.1|_2      FASSQEAYDEAVSGVFAMLDQLESRLGDGRPYLFGDKLTETDIRAFVTLI
+                                    **:*********: **  * :**. **: * ** *::***:*** :.**:
+
+sp|P42620|YQJG_ECOLI                RFDPVYVTHFKCDKHRISDYLNLYGFLRDIYQMPGIAETVNFDHIRNHYF
+gi|255292730|dbj|BAH89836.1|_2      RFDAAYHGLFKTNCRQIADYPHLSAHMERVLRLPGVAETVNMDHITRGYY
+                                    ***..*   ** : ::*:** :* ..:. : ::**:*****:*** . *:
+
+sp|P42620|YQJG_ECOLI                RSHKTINPTGIISIGPWQDLDEPHGRDVRFG
+gi|255292730|dbj|BAH89836.1|_2      -SIKALNPTGIRPTGP---------------
+                                     * *::***** . **               

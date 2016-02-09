@@ -1,0 +1,22 @@
+70:
+
+Given that the allostery is below the average:
+There are 55 residues above the average mutation factor, and 92 below it.
+Given that the allostery is above the average:
+There are 11 residues above the average mutation factor, and 52 below it.
+
+
+80:
+
+Given that the allostery is below the average:
+There are 45 residues above the average mutation factor, and 102 below it.
+Given that the allostery is above the average:
+There are 4 residues above the average mutation factor, and 59 below it.
+
+
+90:
+
+Given that the allostery is below the average:
+There are 31 residues above the average mutation factor, and 116 below it.
+Given that the allostery is above the average:
+There are 3 residues above the average mutation factor, and 60 below it.

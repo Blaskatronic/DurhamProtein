@@ -1,0 +1,30 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sp|P42620|YQJG_ECOLI                MGQLIDGVWHDTWYDTKSTGGKFQRSASAFRNWLTADGAPGPTGTGGFIA
+gi|428213086|ref|YP_007086230.      LGLLIDGKWVTER-EQEDSGGRFVRPSTTFRNRITAE------GSSEYPA
+                                    :* **** *     : :.:**:* *.:::*** :**:      *:. : *
+
+sp|P42620|YQJG_ECOLI                EKDRYHLYVSLACPWAHRTLIMRKLKGLEPFISVSVVNPLMLENGWTFDD
+gi|428213086|ref|YP_007086230.      VAGRYHLYVSLACPWAHRTLIMRSLKGLESAIGLSVVSPVIDQNSWEFAE
+                                      .********************.*****. *.:***.*:: :*.* * :
+
+sp|P42620|YQJG_ECOLI                SFPGATGDTLYQNEFLYQLYLHADPHYSGRVTVPVLWDKKNHTIVSNESA
+gi|428213086|ref|YP_007086230.      -YPGMIPDPVNHCDYLWQLYLKADADYSGRVTVPVLWDKETHQIVNNESR
+                                     :**   *.: : ::*:****:**..*************:.* **.*** 
+
+sp|P42620|YQJG_ECOLI                EIIRMFNTAFDALGAKAGDYYPPALQTKIDELNGWIYDTVNNGVYKAGFA
+gi|428213086|ref|YP_007086230.      EIIRMLDTEFEGIAENSIDLYPGDLQGVIDKTLDEIYQPINNGVYRAGFA
+                                    *****::* *:.:. :: * **  **  **:  . **:.:*****:****
+
+sp|P42620|YQJG_ECOLI                TSQEAYDEAVAKVFESLARLEQILGQHRYLTGNQLTEADIRLWTTLVRFD
+gi|428213086|ref|YP_007086230.      TTQAAYEEGVTDLFDALDHWEGILGKQRYLCGDCLTEADICMFTTLVRFD
+                                    *:* **:*.*:.:*::* : * ***::*** *: ****** ::*******
+
+sp|P42620|YQJG_ECOLI                PVYVTHFKCDKHRISDYLNLYGFLRDIYQMPGIAETVNFDHIRNHYFRSH
+gi|428213086|ref|YP_007086230.      PVYYVHFKCNIRRIVDYPNLWNYLKELYQHPGIKATCNFDHIKQHYYRSH
+                                    *** .****: :** ** **:.:*:::** ***  * *****::**:***
+
+sp|P42620|YQJG_ECOLI                KTINPTGIISIGPWQDLDEPHGRDVRFG
+gi|428213086|ref|YP_007086230.      PKVNPTGIVPKGPIINWDEPHDR-SRFG
+                                     .:*****:. **  : ****.*  ***

@@ -1,0 +1,22 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sp|P0ACJ8|CRP_ECOLI                 ----MVLGKPQTDPTLEWFLSHCHIHKYPSKSTLIHQGEKAETLYYIVKG
+gi|387120827|ref|YP_006286710.      MQEQNAQAMQSMDPTLEWFLSHCHIHKYPSKSTLINAGEKAETLYYLIQG
+                                         . .  . ***********************: *********:::*
+
+sp|P0ACJ8|CRP_ECOLI                 SVAVLIKDEEGKEMILSYLNQGDFIGELGLFEEGQERSAWVRAKTACEVA
+gi|387120827|ref|YP_006286710.      SVSVLVKDEDGKEMILTYLSQGDFFGEAGLFEEGQRRSAWIKAKSSCEVA
+                                    **:**:***:******:**.****:** *******.****::**::****
+
+sp|P0ACJ8|CRP_ECOLI                 EISYKKFRQLIQVNPDILMRLSAQMARRLQVTSEKVGNLAFLDVTGRIAQ
+gi|387120827|ref|YP_006286710.      EISYRKFRQLIQVNPEILMYLTAQLAYRLQNTSRQVSNLAFLDVTGRIAQ
+                                    ****:**********:*** *:**:* *** **.:*.*************
+
+sp|P0ACJ8|CRP_ECOLI                 TLLNLAKQPDAMTHPDGMQIKITRQEIGQIVGCSRETVGRILKMLEDQNL
+gi|387120827|ref|YP_006286710.      TLLNLAKMPEAMTHPDGMQIKITRQEIGQMVGCSRETVGRILKMLEDQHL
+                                    ******* *:*******************:******************:*
+
+sp|P0ACJ8|CRP_ECOLI                 ISAHGKTIVVYGTR
+gi|387120827|ref|YP_006286710.      ISAHGKTIVVYGTR
+                                    **************

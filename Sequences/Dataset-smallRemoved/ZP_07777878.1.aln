@@ -1,0 +1,26 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sp|P0ACJ8|CRP_ECOLI                 ------------------------------------------MVLGKPQT
+gi|312963396|ref|ZP_07777878.1      MCLLSWRQIDGVLPPFYTACINADTAESNNSNHFALPFRDTTMVALTPIP
+                                                                              **  .* .
+
+sp|P0ACJ8|CRP_ECOLI                 DPT-LEWFLSHCHIHKYPSKSTLIHQGEKAETLYYIVKGSVAVLIKDEEG
+gi|312963396|ref|ZP_07777878.1      KIKNLDKLLTHCQRRRHPAKHNIICAGERSETLFFIIKGSVTILIEDEDG
+                                    . . *: :*:**: :::*:* .:*  **::***::*:****::**:**:*
+
+sp|P0ACJ8|CRP_ECOLI                 KEMILSYLNQGDFIGELGLFEEG---QERSAWVRAKTACEVAEISYKKFR
+gi|312963396|ref|ZP_07777878.1      REMIIAYLNTGDFFGELGLFEQAGKEQERSAWVRAKVECEVAEISYTKFR
+                                    :***::*** ***:*******:.   **********. ********.***
+
+sp|P0ACJ8|CRP_ECOLI                 QLIQVNPDILMRLSAQMARRLQVTSEKVGNLAFLDVTGRIAQTLLNLAKQ
+gi|312963396|ref|ZP_07777878.1      ELAQQDPDILYALSGQIAQRLRDTTRKVGDLAFFDVTGRVARCLLELCKQ
+                                    :* * :****  **.*:*:**: *:.***:***:*****:*: **:*.**
+
+sp|P0ACJ8|CRP_ECOLI                 PDAMTHPDGMQIKITRQEIGQIVGCSRETVGRILKMLEDQNLISAHGKTI
+gi|312963396|ref|ZP_07777878.1      PDAMTHPDGMQIKVTRQEIGRIVGCSREMVGRVLKDLEERNLVHVKGKTM
+                                    *************:******:******* ***:** **::**: .:***:
+
+sp|P0ACJ8|CRP_ECOLI                 VVYGTR
+gi|312963396|ref|ZP_07777878.1      VVFGTR
+                                    **:***
