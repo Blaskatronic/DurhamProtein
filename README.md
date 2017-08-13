@@ -14,4 +14,4 @@ The code has a built-in GUI for easy visualization of the protein sequencing dat
 
 # License #
 
-This code is released under GPL 3.0. See LICENSE.txt for more details. Code disused, but queries should be directed to the author, Matthew Jones (mattyjones@boisestate.edu)
+This code is released under GPL 3.0. See LICENSE.txt for more details. Code retired (purpose accomplished), but queries should be directed to the author, Matthew Jones (mattyl.jones@dunelm.org.uk)
